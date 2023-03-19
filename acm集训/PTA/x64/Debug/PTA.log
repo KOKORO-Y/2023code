@@ -1,0 +1,5 @@
+﻿  1016.cpp
+D:\C语言\2022code\acm集训\PTA\1016.cpp(14,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\PTA\1016.cpp(15,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\PTA\1016.cpp(8,28): warning C4101: “e”: 未引用的局部变量
+  PTA.vcxproj -> D:\C语言\2022code\acm集训\PTA\x64\Debug\PTA.exe
