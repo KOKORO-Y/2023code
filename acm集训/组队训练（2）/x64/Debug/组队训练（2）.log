@@ -1,0 +1,6 @@
+﻿  C.cpp
+D:\C语言\2022code\acm集训\组队训练（2）\C.cpp(6,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\组队训练（2）\C.cpp(7,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\组队训练（2）\C.cpp(42,33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\组队训练（2）\C.cpp(50,28): warning C4244: “=”: 从“ll”转换到“int”，可能丢失数据
+  组队训练（2）.vcxproj -> D:\C语言\2022code\acm集训\组队训练（2）\x64\Debug\组队训练（2）.exe

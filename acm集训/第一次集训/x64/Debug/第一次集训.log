@@ -1,0 +1,5 @@
+﻿  E.cpp
+D:\C语言\2022code\acm集训\第一次集训\E.cpp(30,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\第一次集训\E.cpp(35,30): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\第一次集训\E.cpp(51,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  第一次集训.vcxproj -> D:\C语言\2022code\acm集训\第一次集训\x64\Debug\第一次集训.exe

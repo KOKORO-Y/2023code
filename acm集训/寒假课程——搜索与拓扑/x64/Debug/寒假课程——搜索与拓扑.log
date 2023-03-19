@@ -1,0 +1,4 @@
+﻿  K.cpp
+D:\C语言\2022code\acm集训\寒假课程——搜索与拓扑\K.cpp(5,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\acm集训\寒假课程——搜索与拓扑\K.cpp(5,33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  寒假课程——搜索与拓扑.vcxproj -> D:\C语言\2022code\acm集训\寒假课程——搜索与拓扑\x64\Debug\寒假课程——搜索与拓扑.exe
