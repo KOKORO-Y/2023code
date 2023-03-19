@@ -1,0 +1,4 @@
+﻿  Monday.cpp
+D:\C语言\2022code\Acwing\23年寒假每日一题\week1\Monday.cpp(5,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\Acwing\23年寒假每日一题\week1\Monday.cpp(13,30): warning C4018: “<”: 有符号/无符号不匹配
+  week1.vcxproj -> D:\C语言\2022code\Acwing\23年寒假每日一题\week1\x64\Debug\week1.exe
