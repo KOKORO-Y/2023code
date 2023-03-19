@@ -1,0 +1,8 @@
+﻿  P2422.cpp
+D:\C语言\2022code\洛谷\洛谷刷题\栈\P2422.cpp(6,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C语言\2022code\洛谷\洛谷刷题\栈\P2422.cpp(41,17): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+  栈.vcxproj -> D:\C语言\2022code\洛谷\洛谷刷题\栈\x64\Debug\栈.exe
