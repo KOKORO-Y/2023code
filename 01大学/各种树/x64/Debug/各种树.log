@@ -1,0 +1,3 @@
+﻿  二叉排序树.cpp
+D:\C语言\2022code\01大学\各种树\二叉排序树.cpp(84): warning C4715: “prev_search”: 不是所有的控件路径都返回值
+  各种树.vcxproj -> D:\C语言\2022code\01大学\各种树\x64\Debug\各种树.exe
