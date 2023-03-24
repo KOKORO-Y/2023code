@@ -1,0 +1,4 @@
+﻿  9.cpp
+E:\C++\2023code\acm集训\天梯赛选拔1补题\9.cpp(5,1): warning C4005: “INFINITY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(88,1): message : 参见“INFINITY”的前一个定义
+  天梯赛选拔1补题.vcxproj -> E:\C++\2023code\acm集训\天梯赛选拔1补题\x64\Debug\天梯赛选拔1补题.exe
