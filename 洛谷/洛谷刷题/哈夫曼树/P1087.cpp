@@ -47,7 +47,7 @@ void Init(int num)
 
 void createTree(Node* root, int left, int right)
 {
-	if (root == NULL)
+	if (root == NULL || n == 0)
 	{
 		return;
 	}

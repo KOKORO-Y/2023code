@@ -1,0 +1,8 @@
+﻿  洛谷-P2422.cpp
+E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\洛谷-P2422.cpp(5,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\洛谷-P2422.cpp(13,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\洛谷-P2422.cpp(13,9): message : 请考虑在格式字符串中使用“%lld”
+E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\洛谷-P2422.cpp(13,9): message : 请考虑在格式字符串中使用“%Id”
+E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\洛谷-P2422.cpp(13,9): message : 请考虑在格式字符串中使用“%I64d”
+E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\洛谷-P2422.cpp(48,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  1.3 栈.vcxproj -> E:\C++\2023code\算法竞赛\chapter1-基础数据结构\1.3 栈\x64\Debug\1.3 栈.exe
